@@ -1,0 +1,1 @@
+// https://unpkg.com/pokemons01.1.0/pokemons.json
